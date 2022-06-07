@@ -1,4 +1,4 @@
-# ![alt text](../master/applications/geoportal/logo.png "Oskari") Sample application
+# Sample application
 
 This is an example that can be used as a template for building Oskari application frontend.
 
